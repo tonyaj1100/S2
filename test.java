@@ -13,7 +13,7 @@ double result;
 //switch case for each of the operations
 switch(operator)
 {
-case '+'
+case '+
 result = first + second;
 break;
 case '-':
